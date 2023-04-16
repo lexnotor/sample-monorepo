@@ -4,6 +4,7 @@
 
 # Other .gitignore files
 **/.gitignore
+!.gitignore
 
 # Logs
 **/logs
